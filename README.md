@@ -1,5 +1,9 @@
 # Simple Flask App
 
+Forker: Adrian
+Data modyfikacji: 15.12.2024
+Projekt CI/CD z Docker i CircleCI
+
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
